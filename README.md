@@ -39,6 +39,11 @@ python demo.py \
 --cam_methods [CAM, GradCAM, ScoreCAM, LayerCAM, BroadCAM] \
 --proportions [1,2,5,8,10,20,50,80,100]
 ```
+## Citation
+If you find the code useful, please consider citing our paper using the following BibTex entry.
+```
+coming soon.
+```
 
 ## Reference
 

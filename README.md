@@ -42,7 +42,12 @@ python demo.py \
 ## Citation
 If you find the code useful, please consider citing our paper using the following BibTex entry.
 ```
-coming soon.
+@article{lin2023broadcam,
+  title={BroadCAM: Outcome-agnostic Class Activation Mapping for Small-scale Weakly Supervised Applications},
+  author={Lin, Jiatai and Han, Guoqiang and Xu, Xuemiao and Liang, Changhong and Wong, Tien-Tsin and Chen, CL and Liu, Zaiyi and Han, Chu},
+  journal={arXiv preprint arXiv:2309.03509},
+  year={2023}
+}
 ```
 
 ## Reference
